@@ -2,10 +2,6 @@
 
 ## Writing own blogs made easier for everyone!
 
-<div align="center">
-  <img alt="Demo" src="./Extra/demo.gif" />
-</div>
-
 <br/>
 
 <center>
